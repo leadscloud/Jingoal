@@ -1,0 +1,17 @@
+*.json
+*.xlsx
+download/
+__pycache__/
+.vscode
+.cache
+.tags*
+*.p12
+*.txt
+jingoal.1.py
+test.py
+weekly_run.vbs
+HelloAnalytics.py
+daily_run.vbs
+gav4.py
+auto_build_sheet.py
+dowload
